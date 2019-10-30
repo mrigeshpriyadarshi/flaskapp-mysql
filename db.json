@@ -1,0 +1,6 @@
+{
+  "mysql_host": "dd9px0pan0mizs.cppawfky3lxf.us-east-1.rds.amazonaws.com",
+  "mysql_user": "root",
+  "mysql_password": "scbflaskapp",
+  "mysql_db": "flaskapp"
+}
